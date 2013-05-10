@@ -1,0 +1,446 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_normal {
+    background-image: url('../达人_files/u0_normal.png');
+}
+
+.u0_container {
+    position:absolute;
+    left:50px;
+    top:49px;
+    width:450px;
+    height:731px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:450px;
+    height:731px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:358px;
+    width:446px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../达人_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:111px;
+    top:190px;
+    width:325px;
+    height:420px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:331px;
+    height:426px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:202px;
+    width:321px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4_normal {
+    background-image: url('../达人_files/u4_normal.png');
+}
+
+.u4_container {
+    position:absolute;
+    left:110px;
+    top:190px;
+    width:326px;
+    height:45px;
+}
+
+#u4_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:332px;
+    height:51px;
+}
+
+.u5 {
+    position:absolute;
+    left:2px;
+    top:14px;
+    width:322px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u6 {
+    position:absolute;
+    left:259px;
+    top:199px;
+    width:50px;
+    height:24px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u7_normal {
+    background-image: url('../达人_files/u7_normal.png');
+}
+
+.u7_container {
+    position:absolute;
+    left:111px;
+    top:610px;
+    width:69px;
+    height:40px;
+}
+
+#u7_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:46px;
+}
+
+.u8 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:65px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u9_normal {
+    background-image: url('../达人_files/u7_normal.png');
+}
+
+.u9_container {
+    position:absolute;
+    left:180px;
+    top:610px;
+    width:69px;
+    height:40px;
+}
+
+#u9_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:75px;
+    height:46px;
+}
+
+.u10 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:65px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../达人_files/u11_normal.png');
+}
+
+.u11_container {
+    position:absolute;
+    left:249px;
+    top:610px;
+    width:91px;
+    height:40px;
+}
+
+#u11_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:97px;
+    height:46px;
+}
+
+.u12 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:87px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u13_normal {
+    background-image: url('../达人_files/u13_normal.png');
+}
+
+.u13_container {
+    position:absolute;
+    left:340px;
+    top:610px;
+    width:96px;
+    height:40px;
+}
+
+#u13_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:102px;
+    height:46px;
+}
+
+.u14 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:92px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u15_normal {
+    background-image: url('../达人_files/u15_normal.png');
+}
+
+.u15_container {
+    position:absolute;
+    left:121px;
+    top:289px;
+    width:270px;
+    height:298px;
+}
+
+#u15_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:270px;
+    height:298px;
+}
+
+.u16 {
+    position:absolute;
+    left:2px;
+    top:141px;
+    width:266px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u17_normal {
+    background-image: url('../达人_files/u17_normal.png');
+}
+
+.u17_container {
+    position:absolute;
+    left:356px;
+    top:231px;
+    width:80px;
+    height:39px;
+}
+
+#u17_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:45px;
+}
+
+.u18 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u19_normal {
+    background-image: url('../达人_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:111px;
+    top:231px;
+    width:80px;
+    height:39px;
+}
+
+#u19_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:45px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_normal {
+    background-image: url('../达人_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:191px;
+    top:231px;
+    width:85px;
+    height:39px;
+}
+
+#u21_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:91px;
+    height:45px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:81px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_normal {
+    background-image: url('../达人_files/u17_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:276px;
+    top:231px;
+    width:80px;
+    height:39px;
+}
+
+#u23_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:86px;
+    height:45px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:76px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
