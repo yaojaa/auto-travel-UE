@@ -714,62 +714,7 @@ div {
     word-wrap:break-word;
 }
 
-.u45_normal {
-    background-image: url('../目的地详情_files/u45_normal.png');
-}
-
-.u45_container {
-    position:absolute;
-    left:510px;
-    top:227px;
-    width:130px;
-    height:36px;
-}
-
-#u45_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:136px;
-    height:42px;
-}
-
-.u46 {
-    position:absolute;
-    left:2px;
-    top:10px;
-    width:126px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u47_line {
-    background-image: url('../目的地详情_files/u47_line.png');
-}
-
-.u47_line {
-    position:absolute;
-    left:0px;
-    top:4px;
-    width:120px;
-    height:3px;
-}
-
-.u47 {
-    position:absolute;
-    left:390px;
-    top:240px;
-    width:120px;
-    height:10px;
-    
-}
-
-#u48 {
+#u45 {
     position:absolute;
     left:194px;
     top:279px;
@@ -778,7 +723,7 @@ div {
     overflow:hidden;
 }
 
-#pd0u48 {
+#pd0u45 {
     position:absolute;
     left:0px;
     top:0px;
@@ -787,11 +732,11 @@ div {
     
 }
 
-.u49_normal {
-    background-image: url('../目的地详情_files/u49_normal.png');
+.u46_normal {
+    background-image: url('../目的地详情_files/u46_normal.png');
 }
 
-.u49_container {
+.u46_container {
     position:absolute;
     left:0px;
     top:0px;
@@ -799,7 +744,7 @@ div {
     height:80px;
 }
 
-#u49_img {
+#u46_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -807,7 +752,7 @@ div {
     height:86px;
 }
 
-.u50 {
+.u47 {
     position:absolute;
     left:2px;
     top:8px;

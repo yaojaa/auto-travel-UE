@@ -13,14 +13,14 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u4_normal.png");
 }
 
-* html .u8_normal {
+* html .u7_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u8_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u7_normal.png");
 }
 
-* html .u13_normal {
+* html .u11_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u13_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u11_normal.png");
 }
 
 * html .u15_normal {
@@ -30,31 +30,36 @@
 
 * html .u17_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u17_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u15_normal.png");
 }
 
 * html .u19_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u19_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u15_normal.png");
 }
 
 * html .u21_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u21_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u15_normal.png");
 }
 
 * html .u23_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u23_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u15_normal.png");
 }
 
 * html .u25_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u25_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u15_normal.png");
 }
 
-* html .u28_normal {
+* html .u27_line {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u28_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u27_line.png");
+}
+
+* html .u31_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="我的资料_files/u31_normal.png");
 }
 

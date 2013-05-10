@@ -138,50 +138,46 @@ div {
     word-wrap:break-word;
 }
 
-#u7 {
+.u7_normal {
+    background-image: url('../我的资料_files/u7_normal.png');
+}
+
+.u7_container {
     position:absolute;
-    left:111px;
-    top:258px;
-    width:326px;
-    height:111px;
-    overflow:hidden;
+    left:115px;
+    top:195px;
+    width:65px;
+    height:32px;
 }
 
-#pd0u7 {
-    position:absolute;
-    left:0px;
-    top:0px;
-    width:326px;
-    height:111px;
-    
-}
-
-.u8_normal {
-    background-image: url('../我的资料_files/u8_normal.png');
-}
-
-.u8_container {
+#u7_img {
     position:absolute;
     left:0px;
     top:0px;
-    width:325px;
-    height:110px;
+    width:65px;
+    height:32px;
 }
 
-#u8_img {
+.u8 {
     position:absolute;
-    left:-3px;
-    top:-3px;
-    width:331px;
-    height:116px;
+    left:2px;
+    top:8px;
+    width:61px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
 .u9 {
     position:absolute;
-    left:2px;
-    top:35px;
-    width:321px;
-    height:40px;
+    left:125px;
+    top:201px;
+    width:50px;
+    height:16px;
     ;
     ;
     ;
@@ -192,43 +188,43 @@ div {
 
 .u10 {
     position:absolute;
-    left:219px;
-    top:42px;
-    width:90px;
-    height:25px;
+    left:130px;
+    top:337px;
+    width:297px;
+    height:272px;
     ;
     ;
-    text-align: center;;
-    font-family:'Arial';
-    font-size: 13px;
-    color:#000000;
-    font-style:normal;
-    font-weight:normal;
-    text-decoration:none;
-    
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u11_normal {
+    background-image: url('../我的资料_files/u11_normal.png');
 }
 
 .u11_container {
     position:absolute;
-    left:116px;
-    top:240px;
-    width:316px;
-    height:169px;
+    left:124px;
+    top:249px;
+    width:90px;
+    height:89px;
 }
 
 #u11_img {
     position:absolute;
     left:0px;
     top:0px;
-    width:316px;
-    height:169px;
+    width:90px;
+    height:89px;
 }
 
 .u12 {
     position:absolute;
     left:2px;
-    top:76px;
-    width:312px;
+    top:36px;
+    width:86px;
     height:16px;
     ;
     ;
@@ -238,31 +234,25 @@ div {
     word-wrap:break-word;
 }
 
-.u13_normal {
-    background-image: url('../我的资料_files/u13_normal.png');
-}
-
-.u13_container {
+.u13 {
     position:absolute;
-    left:125px;
-    top:302px;
-    width:65px;
-    height:60px;
-}
-
-#u13_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:71px;
-    height:66px;
+    left:222px;
+    top:262px;
+    width:85px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
 .u14 {
     position:absolute;
-    left:2px;
-    top:14px;
-    width:61px;
+    left:224px;
+    top:295px;
+    width:150px;
     height:32px;
     ;
     ;
@@ -278,26 +268,26 @@ div {
 
 .u15_container {
     position:absolute;
-    left:116px;
-    top:378px;
-    width:178px;
-    height:30px;
+    left:222px;
+    top:365px;
+    width:24px;
+    height:21px;
 }
 
 #u15_img {
     position:absolute;
-    left:-3px;
-    top:-3px;
-    width:184px;
-    height:36px;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:21px;
 }
 
 .u16 {
     position:absolute;
     left:2px;
-    top:3px;
-    width:174px;
-    height:24px;
+    top:2px;
+    width:20px;
+    height:16px;
     ;
     ;
     ;
@@ -307,30 +297,30 @@ div {
 }
 
 .u17_normal {
-    background-image: url('../我的资料_files/u17_normal.png');
+    background-image: url('../我的资料_files/u15_normal.png');
 }
 
 .u17_container {
     position:absolute;
-    left:111px;
-    top:419px;
-    width:159px;
-    height:31px;
+    left:340px;
+    top:399px;
+    width:24px;
+    height:21px;
 }
 
 #u17_img {
     position:absolute;
-    left:-3px;
-    top:-3px;
-    width:165px;
-    height:37px;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:21px;
 }
 
 .u18 {
     position:absolute;
     left:2px;
-    top:8px;
-    width:155px;
+    top:2px;
+    width:20px;
     height:16px;
     ;
     ;
@@ -341,30 +331,30 @@ div {
 }
 
 .u19_normal {
-    background-image: url('../我的资料_files/u19_normal.png');
+    background-image: url('../我的资料_files/u15_normal.png');
 }
 
 .u19_container {
     position:absolute;
-    left:383px;
-    top:245px;
-    width:53px;
-    height:25px;
+    left:196px;
+    top:429px;
+    width:24px;
+    height:21px;
 }
 
 #u19_img {
     position:absolute;
-    left:-3px;
-    top:-3px;
-    width:59px;
-    height:31px;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:21px;
 }
 
 .u20 {
     position:absolute;
     left:2px;
-    top:4px;
-    width:49px;
+    top:2px;
+    width:20px;
     height:16px;
     ;
     ;
@@ -375,30 +365,30 @@ div {
 }
 
 .u21_normal {
-    background-image: url('../我的资料_files/u21_normal.png');
+    background-image: url('../我的资料_files/u15_normal.png');
 }
 
 .u21_container {
     position:absolute;
-    left:294px;
-    top:378px;
-    width:142px;
-    height:30px;
+    left:273px;
+    top:462px;
+    width:24px;
+    height:21px;
 }
 
 #u21_img {
     position:absolute;
-    left:-3px;
-    top:-3px;
-    width:148px;
-    height:36px;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:21px;
 }
 
 .u22 {
     position:absolute;
     left:2px;
-    top:7px;
-    width:138px;
+    top:2px;
+    width:20px;
     height:16px;
     ;
     ;
@@ -409,30 +399,30 @@ div {
 }
 
 .u23_normal {
-    background-image: url('../我的资料_files/u23_normal.png');
+    background-image: url('../我的资料_files/u15_normal.png');
 }
 
 .u23_container {
     position:absolute;
-    left:270px;
-    top:419px;
-    width:166px;
-    height:31px;
+    left:222px;
+    top:494px;
+    width:24px;
+    height:21px;
 }
 
 #u23_img {
     position:absolute;
-    left:-3px;
-    top:-3px;
-    width:172px;
-    height:37px;
+    left:0px;
+    top:0px;
+    width:24px;
+    height:21px;
 }
 
 .u24 {
     position:absolute;
     left:2px;
-    top:8px;
-    width:162px;
+    top:2px;
+    width:20px;
     height:16px;
     ;
     ;
@@ -443,30 +433,30 @@ div {
 }
 
 .u25_normal {
-    background-image: url('../我的资料_files/u25_normal.png');
+    background-image: url('../我的资料_files/u15_normal.png');
 }
 
 .u25_container {
     position:absolute;
-    left:115px;
-    top:195px;
-    width:65px;
-    height:32px;
+    left:222px;
+    top:526px;
+    width:24px;
+    height:21px;
 }
 
 #u25_img {
     position:absolute;
     left:0px;
     top:0px;
-    width:65px;
-    height:32px;
+    width:24px;
+    height:21px;
 }
 
 .u26 {
     position:absolute;
     left:2px;
-    top:8px;
-    width:61px;
+    top:2px;
+    width:20px;
     height:16px;
     ;
     ;
@@ -474,14 +464,35 @@ div {
     font-family:Arial;
     text-align:left;
     word-wrap:break-word;
+}
+
+.u27_line {
+    background-image: url('../我的资料_files/u27_line.png');
+}
+
+.u27_line {
+    position:absolute;
+    left:0px;
+    top:4px;
+    width:290px;
+    height:3px;
 }
 
 .u27 {
     position:absolute;
-    left:125px;
-    top:201px;
-    width:50px;
-    height:16px;
+    left:130px;
+    top:557px;
+    width:290px;
+    height:10px;
+    
+}
+
+.u28 {
+    position:absolute;
+    left:130px;
+    top:577px;
+    width:150px;
+    height:48px;
     ;
     ;
     ;
@@ -490,31 +501,11 @@ div {
     word-wrap:break-word;
 }
 
-.u28_normal {
-    background-image: url('../我的资料_files/u28_normal.png');
-}
-
-.u28_container {
-    position:absolute;
-    left:397px;
-    top:199px;
-    width:30px;
-    height:28px;
-}
-
-#u28_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:36px;
-    height:34px;
-}
-
 .u29 {
     position:absolute;
-    left:2px;
-    top:6px;
-    width:26px;
+    left:330px;
+    top:579px;
+    width:70px;
     height:16px;
     ;
     ;
@@ -526,10 +517,44 @@ div {
 
 .u30 {
     position:absolute;
-    left:130px;
-    top:470px;
-    width:297px;
-    height:144px;
+    left:330px;
+    top:610px;
+    width:70px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u31_normal {
+    background-image: url('../我的资料_files/u31_normal.png');
+}
+
+.u31_container {
+    position:absolute;
+    left:300px;
+    top:263px;
+    width:23px;
+    height:19px;
+}
+
+#u31_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:23px;
+    height:19px;
+}
+
+.u32 {
+    position:absolute;
+    left:2px;
+    top:2px;
+    width:19px;
+    height:16px;
     ;
     ;
     ;

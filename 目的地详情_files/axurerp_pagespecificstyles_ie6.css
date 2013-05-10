@@ -83,18 +83,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="目的地详情_files/u38_normal.png");
 }
 
-* html .u45_normal {
+* html .u46_normal {
     background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="目的地详情_files/u45_normal.png");
-}
-
-* html .u47_line {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="目的地详情_files/u47_line.png");
-}
-
-* html .u49_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="目的地详情_files/u49_normal.png");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="目的地详情_files/u46_normal.png");
 }
 

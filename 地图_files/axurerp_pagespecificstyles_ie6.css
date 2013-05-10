@@ -18,3 +18,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="地图_files/u8_normal.png");
 }
 
+* html .u10_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="地图_files/u10_normal.png");
+}
+

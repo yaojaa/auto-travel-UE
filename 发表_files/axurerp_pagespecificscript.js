@@ -11,7 +11,7 @@ $axure.eventManager.click('u20', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('详情_1.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('详情.html');
 
 }
 });
@@ -22,7 +22,7 @@ $axure.eventManager.click('u23', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('首页-推荐.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('首页.html');
 
 }
 });

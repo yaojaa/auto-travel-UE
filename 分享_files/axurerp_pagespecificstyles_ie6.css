@@ -463,3 +463,8 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="分享_files/u157_normal.png");
 }
 
+* html .u200_normal {
+    background-image: none;
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="分享_files/u9_normal.png");
+}
+

@@ -58,13 +58,3 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="365_files/u29_normal.png");
 }
 
-* html .u31_normal {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="365_files/u31_normal.png");
-}
-
-* html .u33_line {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="365_files/u33_line.png");
-}
-

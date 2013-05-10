@@ -1,4 +1,4 @@
-﻿for(var i = 0; i < 51; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 48; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
@@ -44,7 +44,7 @@ $axure.eventManager.click('u32', function(e) {
 
 if (true) {
 
-	SetPanelVisibility('u48','toggle','fade',500);
+	SetPanelVisibility('u45','toggle','fade',500);
 
 }
 });
@@ -55,7 +55,7 @@ $axure.eventManager.click('u14', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('详情.html');
+	self.location.href='#';
 
 }
 });
@@ -66,7 +66,7 @@ $axure.eventManager.click('u12', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('详情.html');
+	self.location.href='#';
 
 }
 });
@@ -81,4 +81,4 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u25'] = 'center';gv_vAlignTable['u46'] = 'center';gv_vAlignTable['u19'] = 'top';gv_vAlignTable['u5'] = 'center';gv_vAlignTable['u50'] = 'center';gv_vAlignTable['u33'] = 'center';
+gv_vAlignTable['u25'] = 'center';gv_vAlignTable['u19'] = 'top';gv_vAlignTable['u5'] = 'center';gv_vAlignTable['u47'] = 'center';gv_vAlignTable['u33'] = 'center';

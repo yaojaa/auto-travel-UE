@@ -3376,3 +3376,37 @@ div {
     word-wrap:break-word;
 }
 
+.u200_normal {
+    background-image: url('../分享_files/u9_normal.png');
+}
+
+.u200_container {
+    position:absolute;
+    left:50px;
+    top:10px;
+    width:180px;
+    height:40px;
+}
+
+#u200_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:186px;
+    height:46px;
+}
+
+.u201 {
+    position:absolute;
+    left:2px;
+    top:12px;
+    width:176px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+

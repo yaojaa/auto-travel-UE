@@ -11,7 +11,7 @@ $axure.eventManager.click('u9', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('我的旅行.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('我的主页.html');
 
 }
 });
@@ -22,7 +22,7 @@ $axure.eventManager.click('u18', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('旅行达人.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('车友.html');
 
 }
 });
@@ -33,7 +33,7 @@ $axure.eventManager.click('u7', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('我的旅行.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('我的主页.html');
 
 }
 });
